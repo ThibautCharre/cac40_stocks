@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Programming/R/R_412_library",
+        "installDependencies": true
+    }
+}
